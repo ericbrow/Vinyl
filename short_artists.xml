@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists>
+   <artist>
+      <images>
+         <image height="450" type="secondary" uri="" uri150="" width="600" />
+      </images>
+      <id>1</id>
+      <name>The Persuader</name>
+      <realname>Jesper DahlbÃ¤ck</realname>
+      <profile />
+      <data_quality>Correct</data_quality>
+      <namevariations>
+         <name>Persuader</name>
+         <name>The Presuader</name>
+      </namevariations>
+      <aliases>
+         <name>Dick Track</name>
+         <name>Faxid</name>
+         <name>Groove Machine</name>
+         <name>Janne Me' Amazonen</name>
+         <name>Jesper DahlbÃ¤ck</name>
+         <name>Lenk</name>
+         <name>The Pinguin Man</name>
+      </aliases>
+   </artist>
+   <artist>
+      <id>2</id>
+      <name>Mr. James Barth &amp; A.D.</name>
+      <realname>Cari Lekebusch &amp; Alexi Delano</realname>
+      <profile />
+      <data_quality>Correct</data_quality>
+      <namevariations>
+         <name>Mr Barth &amp; A.D.</name>
+         <name>MR JAMES BARTH &amp; A. D.</name>
+         <name>Mr. Barth &amp; A.D.</name>
+         <name>Mr. James Barth &amp; A. D.</name>
+      </namevariations>
+      <aliases>
+         <name>ADCL</name>
+         <name>Alexi Delano &amp; Cari Lekebusch</name>
+         <name>Crushed Insect &amp; The Sick Puppy</name>
+         <name>Puente Latino</name>
+         <name>Yakari &amp; Delano</name>
+      </aliases>
+      <members>
+         <id>26</id>
+         <name>Alexi Delano</name>
+         <id>27</id>
+         <name>Cari Lekebusch</name>
+      </members>
+   </artist>
+   <artist>
+      <images>
+         <image height="630" type="primary" uri="" uri150="" width="500" />
+         <image height="288" type="secondary" uri="" uri150="" width="219" />
+         <image height="280" type="secondary" uri="" uri150="" width="380" />
+         <image height="370" type="secondary" uri="" uri150="" width="399" />
+         <image height="199" type="secondary" uri="" uri150="" width="200" />
+         <image height="436" type="secondary" uri="" uri150="" width="550" />
+         <image height="661" type="secondary" uri="" uri150="" width="600" />
+         <image height="270" type="secondary" uri="" uri150="" width="461" />
+      </images>
+      <id>3</id>
+      <name>Josh Wink</name>
+      <realname>Joshua Winkelman</realname>
+      <profile>After forming [l=Ovum Recordings] as an independent label in October 1994 with former partner [a=King Britt], Josh recorded the cult classic 'Liquid Summer'. He went on to release singles for a wide variety of revered European labels ranging from Belgium's [l=R &amp; S Records] to England's [l=XL Recordings]. In 1995, Wink became one of the first DJ-producers to translate his hard work into mainstream success when he unleashed a string of classics including 'Don't Laugh'Â¸ 'I'm Ready' and 'Higher State of Consciousness' that topped charts worldwide. More recently he has had massive club hits such as 'How's Your Evening So Far' and 'Superfreak' but he has also gained a lot of attention trough his remixes for [a=FC Kahuna], [a=Paul Oakenfold], [a=Ladytron], [a=Clint Mansell], [a=Sting] and [a=Depeche Mode], among others.</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://www.joshwink.com/</url>
+         <url>http://www.ovumrecordings.com/artists/josh-wink/</url>
+         <url>http://www.facebook.com/JoshWinkOfficial</url>
+         <url>http://twitter.com/joshwink1</url>
+         <url>http://instagram.com/joshwink1</url>
+         <url>http://myspace.com/joshwink</url>
+         <url>http://myspace.com/ovumrecordings</url>
+         <url>http://www.discogs.com/user/JoshWink</url>
+         <url>http://www.discogs.com/user/josh_wink</url>
+         <url>http://www.songkick.com/artists/250682-josh-wink</url>
+         <url>http://en.wikipedia.org/wiki/Josh_Wink</url>
+         <url>http://www.whosampled.com/Josh-Wink/</url>
+         <url>https://soundcloud.com/joshwinkofficial</url>
+         <url>http://www.youtube.com/user/JoshWinkVEVO</url>
+         <url>http://www.dailymotion.com/JoshWink-vevo</url>
+      </urls>
+      <namevariations>
+         <name>DJ Josh Wink</name>
+         <name>DJ Wink</name>
+         <name>Dosh Wink</name>
+         <name>J Wink</name>
+         <name>J. Wink</name>
+         <name>J. Wink (DJ  Wink)</name>
+         <name>J. Winkelman</name>
+         <name>J. Winkelmann</name>
+         <name>J.Wink</name>
+         <name>J.Winkelman</name>
+         <name>Josh</name>
+         <name>Josh Wink (DJ Wink)</name>
+         <name>Josh Winkelman</name>
+         <name>Josh Winkelmann</name>
+         <name>Josh Winks</name>
+         <name>Josh Winx</name>
+         <name>JW</name>
+         <name>Stairway To Headphones</name>
+         <name>Winc</name>
+         <name>Wing</name>
+         <name>Wings</name>
+         <name>Wink</name>
+         <name>Winks</name>
+         <name>Winx</name>
+         <name>Winxs</name>
+      </namevariations>
+      <aliases>
+         <name>Accent (3)</name>
+         <name>Dinky Dog</name>
+         <name>J. Dawg</name>
+         <name>Size 9</name>
+         <name>The Crusher</name>
+      </aliases>
+      <groups>
+         <name>Abundance Of Cups</name>
+         <name>E-Culture</name>
+         <name>Jack Jones (4)</name>
+         <name>Just King And Wink</name>
+         <name>The Force (23)</name>
+      </groups>
+   </artist>
+   <artist>
+      <images>
+         <image height="900" type="primary" uri="" uri150="" width="600" />
+         <image height="400" type="secondary" uri="" uri150="" width="600" />
+         <image height="400" type="secondary" uri="" uri150="" width="600" />
+         <image height="210" type="secondary" uri="" uri150="" width="311" />
+         <image height="259" type="secondary" uri="" uri150="" width="400" />
+         <image height="600" type="secondary" uri="" uri150="" width="487" />
+         <image height="464" type="secondary" uri="" uri150="" width="348" />
+      </images>
+      <id>4</id>
+      <name>Johannes Heil</name>
+      <realname>Johannes Heil</realname>
+      <profile>Electronic music producer, musician and live performer, born 3 February 1978 near the town of Bad Nauheim, Germany. Founder of [l=JH] and [l=Metatron Recordings].</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://johannes-heil.com/</url>
+         <url>https://www.facebook.com/johannesheilofficial</url>
+         <url>https://twitter.com/Johannes_Heil</url>
+      </urls>
+      <namevariations>
+         <name>Heil</name>
+         <name>Heil, Johannes</name>
+         <name>Hell</name>
+         <name>J Heil</name>
+         <name>J. Heil</name>
+         <name>J. Heill</name>
+         <name>J.Heil</name>
+         <name>JH</name>
+         <name>Joh. Heil</name>
+         <name>Johannas Heil</name>
+         <name>Johannes Hell</name>
+      </namevariations>
+      <aliases>
+         <name>Age Beats</name>
+         <name>Antonio Montana El Rey</name>
+         <name>Cryptik</name>
+         <name>Jim Henson Project</name>
+         <name>The Hidden (2)</name>
+         <name>The Trinity</name>
+         <name>The X Act</name>
+         <name>Think Tank (2)</name>
+         <name>Unity Gain</name>
+      </aliases>
+      <groups>
+         <name>C.R.S.</name>
+         <name>Item One</name>
+         <name>Project 69</name>
+         <name>Question Authority (2)</name>
+         <name>State Of Chaos</name>
+      </groups>
+   </artist>
+   <artist>
+      <images>
+         <image height="192" type="primary" uri="" uri150="" width="150" />
+         <image height="580" type="secondary" uri="" uri150="" width="413" />
+         <image height="179" type="secondary" uri="" uri150="" width="250" />
+         <image height="275" type="secondary" uri="" uri150="" width="200" />
+         <image height="225" type="secondary" uri="" uri150="" width="300" />
+         <image height="400" type="secondary" uri="" uri150="" width="287" />
+      </images>
+      <id>5</id>
+      <name>Heiko Laux</name>
+      <realname>Heiko Laux</realname>
+      <profile>German DJ and producer based in Berlin. He is the founder of [l=Kanzleramt].</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://www.heiko-laux.com</url>
+         <url>http://www.facebook.com/heikolauxofficial</url>
+         <url>http://www.soundcloud.com/heikolaux</url>
+         <url>http://www.myspace.com/heikolaux</url>
+      </urls>
+      <namevariations>
+         <name>220</name>
+         <name>H. Laux</name>
+         <name>H.Laux</name>
+         <name>Heiko</name>
+         <name>Hlx</name>
+         <name>Laux</name>
+      </namevariations>
+      <aliases>
+         <name>Apathism</name>
+         <name>Goldwave</name>
+         <name>HLX</name>
+         <name>Toko</name>
+         <name>X-Rated Angels</name>
+      </aliases>
+      <groups>
+         <name>4K (3)</name>
+         <name>Direct From The Machine</name>
+         <name>Item One</name>
+         <name>Laux &amp; Olsson</name>
+         <name>Monobleeding</name>
+         <name>Offshore Funk</name>
+         <name>Orange 25</name>
+         <name>RezzQ</name>
+         <name>Sodiac</name>
+         <name>The Global Segments</name>
+         <name>Total Planet Refreshment</name>
+      </groups>
+   </artist>
+   <artist>
+      <id>6</id>
+      <name>K.A.B.</name>
+      <realname>Karl Axel Bissler</realname>
+      <profile />
+      <data_quality>Needs Major Changes</data_quality>
+   </artist>
+   <artist>
+      <images>
+         <image height="897" type="primary" uri="" uri150="" width="600" />
+         <image height="350" type="secondary" uri="" uri150="" width="249" />
+      </images>
+      <id>7</id>
+      <name>Sylk 130</name>
+      <realname>King James Britt</realname>
+      <profile />
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://www.myspace.com/kingbritt</url>
+      </urls>
+      <namevariations>
+         <name>King Britt (Sylk 130)</name>
+         <name>King Britt Presents: SYLK 130</name>
+         <name>Silk130</name>
+         <name>Sylk 130 aka King Britt</name>
+         <name>Sylk130</name>
+         <name>ã‚·ãƒ«ã‚¯130</name>
+      </namevariations>
+      <aliases>
+         <name>Dynamic (3)</name>
+         <name>Fhloston Paradigm</name>
+         <name>Firefly</name>
+         <name>King Britt</name>
+         <name>Oba Funke</name>
+         <name>Scuba</name>
+         <name>Soul Litchfield</name>
+         <name>The Nova Dream Sequence</name>
+      </aliases>
+   </artist>
+   <artist>
+      <images>
+         <image height="218" type="primary" uri="" uri150="" width="298" />
+      </images>
+      <id>8</id>
+      <name>Mood II Swing</name>
+      <realname>John Ciafone &amp; Lem Springsteen</realname>
+      <profile>House duo from US.</profile>
+      <data_quality>Needs Vote</data_quality>
+      <namevariations>
+         <name>Mood 2 Swing</name>
+         <name>Mood II Swing Production</name>
+         <name>Mood II Swing Productions</name>
+         <name>Mood Il Swing</name>
+         <name>Mood Swing</name>
+         <name>Mood To Swing</name>
+         <name>Moog II Swing</name>
+         <name>The House Of Mood II Swing</name>
+      </namevariations>
+      <aliases>
+         <name>Bumforhire</name>
+         <name>Chronic</name>
+         <name>Chronic Sounds</name>
+         <name>Full Swing (3)</name>
+         <name>Grand Diva Tour</name>
+         <name>The Club Kidds</name>
+         <name>Urbanized</name>
+         <name>Wall Of Sound</name>
+      </aliases>
+      <members>
+         <id>12186</id>
+         <name>John Ciafone</name>
+         <id>27959</id>
+         <name>Lem Springsteen</name>
+      </members>
+   </artist>
+   <artist>
+      <images>
+         <image height="100" type="primary" uri="" uri150="" width="140" />
+      </images>
+      <id>9</id>
+      <name>Care Company</name>
+      <realname>Markus Reinhardt, Carsten Klatte &amp; JosÃ© Alvarez-Brill</realname>
+      <profile />
+      <data_quality>Correct</data_quality>
+      <members>
+         <id>277783</id>
+         <name>Carsten Klatte</name>
+         <id>455753</id>
+         <name>JosÃ© Alvarez-Brill</name>
+         <id>201121</id>
+         <name>Markus Reinhardt</name>
+      </members>
+   </artist>
+   <artist>
+      <images>
+         <image height="144" type="primary" uri="" uri150="" width="192" />
+         <image height="113" type="secondary" uri="" uri150="" width="150" />
+         <image height="89" type="secondary" uri="" uri150="" width="184" />
+      </images>
+      <id>11</id>
+      <name>DJ Dozia</name>
+      <realname>Dozia Blakey</realname>
+      <profile>Philly House producer. Works with Scuba and King Britt (Ovum Rec.). Owner of the label [l=Nou Lion Recordings].</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://www.ovum-rec.com/</url>
+      </urls>
+      <namevariations>
+         <name>D.J. Dozia</name>
+         <name>DJ Dozia Blakely</name>
+         <name>DJ Dozia Blakey</name>
+         <name>Dozia</name>
+         <name>Dozia Slim</name>
+      </namevariations>
+      <aliases>
+         <name>Dozia Blakey</name>
+         <name>Music From The Trees</name>
+         <name>The Nou Lion</name>
+      </aliases>
+   </artist>
+   <artist>
+      <images>
+         <image height="310" type="primary" uri="" uri150="" width="240" />
+         <image height="497" type="secondary" uri="" uri150="" width="339" />
+         <image height="600" type="secondary" uri="" uri150="" width="600" />
+         <image height="400" type="secondary" uri="" uri150="" width="600" />
+         <image height="800" type="secondary" uri="" uri150="" width="600" />
+         <image height="450" type="secondary" uri="" uri150="" width="600" />
+         <image height="400" type="secondary" uri="" uri150="" width="600" />
+      </images>
+      <id>13</id>
+      <name>Blaze</name>
+      <realname>Kevin Hedge &amp; Josh Milan</realname>
+      <profile>New Jersey-based duo.&amp;#13;
+[a=Chris Herbert] was a member but left the group in the early '90s.&amp;#13;</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://en.wikipedia.org/wiki/Blaze_(band)</url>
+      </urls>
+      <namevariations>
+         <name>A Blaze Project</name>
+         <name>Blace</name>
+         <name>BlazÃ¨</name>
+         <name>Blaze Production</name>
+         <name>Blaze Productions</name>
+         <name>Blaze Project</name>
+         <name>Blazel</name>
+         <name>Funky People</name>
+         <name>Original Blaze,The</name>
+         <name>The Mighty Blaze</name>
+         <name>The Original Blaze</name>
+      </namevariations>
+      <aliases>
+         <name>Black Rascals</name>
+         <name>Exit</name>
+         <name>In-Sync (2)</name>
+         <name>James Toney Jr. Project</name>
+         <name>Klubhead</name>
+         <name>Project MSC</name>
+         <name>Stardust (2)</name>
+         <name>System VIII</name>
+         <name>The Colour Funky</name>
+      </aliases>
+      <members>
+         <id>56890</id>
+         <name>Chris Herbert</name>
+         <id>13815</id>
+         <name>Josh Milan</name>
+         <id>13814</id>
+         <name>Kevin Hedge</name>
+      </members>
+   </artist>
+   <artist>
+      <images>
+         <image height="331" type="primary" uri="" uri150="" width="500" />
+         <image height="591" type="secondary" uri="" uri150="" width="500" />
+         <image height="669" type="secondary" uri="" uri150="" width="380" />
+      </images>
+      <id>14</id>
+      <name>Eight Miles High</name>
+      <realname>Roman FlÃ¼gel</realname>
+      <profile>German ambient/idm/house/techno/electro/leftfield DJ and producer based in Frankfurt.&amp;#13;
+He is active since the early 1990's and works solo or with long time partner [A=JÃ¶rn Elling Wuttke].&amp;#13;
+He is also a co-founder of [L=Ongaku Musik], [L=Klang Elektronik], [L=Playhouse].</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://8mh.de</url>
+      </urls>
+      <aliases>
+         <name>Acid Test</name>
+         <name>List (2)</name>
+         <name>ro70</name>
+         <name>Roman FlÃ¼gel</name>
+         <name>Roman IV</name>
+         <name>Soylent Green</name>
+      </aliases>
+   </artist>
+   <artist>
+      <images>
+         <image height="349" type="primary" uri="" uri150="" width="300" />
+         <image height="178" type="secondary" uri="" uri150="" width="200" />
+         <image height="222" type="secondary" uri="" uri150="" width="200" />
+         <image height="324" type="secondary" uri="" uri150="" width="535" />
+      </images>
+      <id>16</id>
+      <name>Christian Smith</name>
+      <realname>Christian Smith-Solbakken</realname>
+      <profile>Tech-House and Funky Techno DJ &amp; producer.&amp;#13;
+Born in Sweden, Christian spent much of his youth and early adult life in Germany and America.&amp;#13;
+In 2009 Christian relocated to Sao Paulo, Brazil from Spain.&amp;#13;
+Started his House &amp; Techno label [l=Tronic] label in 1994, then re-started it in 2009, after a two-year hiatus.&amp;#13;</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>https://www.facebook.com/officialchristiansmith/</url>
+         <url>http://www.myspace.com/christiansmithdj</url>
+         <url>http://twitter.com/CSmithLIVE</url>
+         <url>http://soundcloud.com/christiansmith</url>
+         <url>http://www.residentadvisor.net/dj/christiansmith</url>
+      </urls>
+      <namevariations>
+         <name>C. Smith</name>
+         <name>C.Smith</name>
+         <name>Christian S</name>
+         <name>Christian S.</name>
+         <name>Christian Smith - Solbakken</name>
+         <name>Christian Smith-Solbakken</name>
+         <name>Cristian Smith</name>
+         <name>Smith</name>
+         <name>Solbakken</name>
+      </namevariations>
+      <aliases>
+         <name>Neuromancer (2)</name>
+      </aliases>
+      <groups>
+         <name>Christian Smith &amp; John Selway</name>
+         <name>Destination</name>
+         <name>Foreign Textures</name>
+         <name>Galactica</name>
+         <name>Goldrush</name>
+         <name>Interzone (7)</name>
+         <name>Kings Of Punani</name>
+         <name>Timeline</name>
+      </groups>
+   </artist>
+   <artist>
+      <images>
+         <image height="210" type="primary" uri="" uri150="" width="312" />
+         <image height="266" type="secondary" uri="" uri150="" width="150" />
+         <image height="366" type="secondary" uri="" uri150="" width="280" />
+         <image height="606" type="secondary" uri="" uri150="" width="464" />
+      </images>
+      <id>17</id>
+      <name>John Selway</name>
+      <realname>John Brinton Selway</realname>
+      <profile>From the early 90s to the present, Selway has built a high quality catalog of productions, both on his own and as a collaborator in various artist and label projects. From his first electronic band Chaotic Sound Matrix, to his major contributions to the early productions of Deep Dish; from his first success in the techno world as part of the seminal New York duo Disintegrator to the most successful of his collaborations, Smith &amp; Selway, and his deep and minimal techno label CSM; from the intelligent electro-funk of Synapse and Serotonin Records, the electro and synth-pop of Memory Boy to the wild improvisational eclecticism of the Rancho Relaxo Allstars, Selway has created and helped to create one of the most stylistically wide ranging bodies of work in the world of electronic dance music.</profile>
+      <data_quality>Needs Vote</data_quality>
+      <urls>
+         <url>http://www.selwaymusic.net</url>
+         <url>http://www.facebook.com/pages/John-Selway/224601153031?ref=ts&amp;fref=ts</url>
+         <url>http://www.myspace.com/selwaymusic</url>
+      </urls>
+      <namevariations>
+         <name>J Selway</name>
+         <name>J. B. Selway</name>
+         <name>J. Selway</name>
+         <name>J.Selway</name>
+         <name>John Brinton Selway</name>
+         <name>John Leway</name>
+         <name>John Selaway</name>
+         <name>Sellway</name>
+         <name>Selway</name>
+      </namevariations>
+      <aliases>
+         <name>Brinton McKay</name>
+         <name>Dr. Theopolis</name>
+         <name>Galactic Spiral Sound</name>
+         <name>Highrise</name>
+         <name>Memory Boy</name>
+         <name>Semblance Factor</name>
+         <name>Spy (2)</name>
+         <name>Three O'Clock High</name>
+         <name>Zoid (12)</name>
+      </aliases>
+      <groups>
+         <name>Christian Smith &amp; John Selway</name>
+         <name>CSM</name>
+         <name>Dharma (2)</name>
+         <name>Disintegrator</name>
+         <name>East Side Scientific</name>
+         <name>Koenig Cylinders</name>
+         <name>Machines (8)</name>
+         <name>Moods</name>
+         <name>Neurotic Drum Band</name>
+         <name>Octaves/Tremelos</name>
+         <name>Prana (2)</name>
+         <name>Psychedelic Research Lab</name>
+         <name>Rancho Relaxo Allstars</name>
+         <name>Responsible Space Playboys</name>
+         <name>Synapse</name>
+         <name>The Founders</name>
+      </groups>
+   </artist>
+   <artist>
+      <id>19</id>
+      <name>Sound Associates</name>
+      <profile />
+      <data_quality>Needs Vote</data_quality>
+      <aliases>
+         <name>Daz Saund &amp; Ben Tisdall</name>
+         <name>Housewerk</name>
+      </aliases>
+      <members>
+         <id>6482</id>
+         <name>Ben Tisdall</name>
+         <id>15867</id>
+         <name>Daz Saund</name>
+      </members>
+   </artist>
+   <artist>
+      <images>
+         <image height="295" type="secondary" uri="" uri150="" width="364" />
+      </images>
+      <id>20</id>
+      <name>Percy X</name>
+      <realname>Anthony Scott MacKinnon</realname>
+      <profile>Producer and DJ from Glasgow, Scotland</profile>
+      <data_quality>Correct</data_quality>
+      <urls>
+         <url>http://www.myspace.com/percyxuk</url>
+         <url>http://www.somarecords.com/artists/percyx</url>
+      </urls>
+      <namevariations>
+         <name>Percy-X</name>
+         <name>PercyX</name>
+      </namevariations>
+      <aliases>
+         <name>Abyss</name>
+         <name>Edit Select</name>
+         <name>Mion</name>
+         <name>Recycle (2)</name>
+         <name>Shortfiction</name>
+         <name>The X-Man (3)</name>
+         <name>Tony Scott (4)</name>
+      </aliases>
+   </artist>
+   <artist>
+      <images>
+         <image height="151" type="primary" uri="" uri150="" width="131" />
+      </images>
+      <id>21</id>
+      <name>Faze Action</name>
+      <realname>Robin Lee, Simon Lee</realname>
+      <profile>British band composed of brothers Simon and Robin Lee. Faze Action blended house music with Western classical, pan-African, and Latin music.</profile>
+      <data_quality>Correct</data_quality>
+      <urls>
+         <url>http://www.fazeaction.com/</url>
+         <url>http://www.myspace.com/fazeaction</url>
+      </urls>
+      <namevariations>
+         <name>FA</name>
+         <name>Face Action</name>
+      </namevariations>
+      <aliases>
+         <name>Orto</name>
+         <name>Simon &amp; Robin Lee</name>
+      </aliases>
+      <members>
+         <id>308472</id>
+         <name>Robin Lee</name>
+         <id>133484</id>
+         <name>Simon Lee</name>
+      </members>
+   </artist>
+   <artist>
+      <id>22</id>
+      <name>DATacide</name>
+      <profile>Datacide began recording together in 1993, after Tetsu Inoue met Uwe Schmidt while vacationing near Frankfurt. They recorded a pair of dance tracks for 12-inch release on [l=Fax +49-69/450464], followed by a full-length which mixed more uptempo trance-oriented techno with beatless ambient and experimental soundscapes. A second Datacide release in a similar, though more ambient vein (and titled, of course, Datacide II) appeared the following year before Tetsu Inoue and Uwe Schmidt switched gears for their first Rather Interesting release, Flowerhead, an album of laidback ambient-jazz. Ondas, released in 1996, upped Flowerhead's weirdness factor significantly, dwelling for most of the album in channel separation experiments which fused the rhythmic abstraction of Atom Heart's recent solo work with the fizzier, more left-field of Tetsu Inoue's electronic treatments (Tetsu Inoue's girlfriend, Ingrid, even makes an extended cameo on "mouth trumpet").</profile>
+      <data_quality>Correct</data_quality>
+      <namevariations>
+         <name>Datacide 2</name>
+      </namevariations>
+      <aliases>
+         <name>Masters Of Psychedelic Ambiance</name>
+      </aliases>
+      <members>
+         <id>25</id>
+         <name>Tetsu Inoue</name>
+         <id>519207</id>
+         <name>Uwe Schmidt</name>
+      </members>
+   </artist>
+</artists>
