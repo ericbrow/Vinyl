@@ -13,18 +13,16 @@ type Artists struct {
 }
 
 type Artist struct {
-	XMLName  xml.Name  `xml:"artist"`
-	ArtistID uint32    `xml:"id"`
-	ArtistName     string    `xml:"name"`
-	RealName string    `xml:"realname"`
-	Profile  string    `xml:"profile"`
-	ArtMembers  []Members `xml:"members"`
+	XMLName xml.Name `xml:"artist"`
+	ArtistID uint32 `xml:" id,omitempty"`
+	ArtistName string `xml:" name,omitempty"`
+	Profile string `xml:" profile,omitempty"`
+	RealName string `xml:" realname,omitempty"`
+	Members MembersID `xml:"members,omitempty"`
 }
 
-type Members struct {
-	//XMLName    xml.Name `xml:"members"`
-	MemberID   uint32   `xml:"id"`
-	MemberName string   `xml:"name"`
+type MembersID struct {
+	MemberID []uint32 `xml:"id,omitempty"`
 }
 
 func main() {
@@ -47,14 +45,7 @@ func main() {
 		fmt.Println("Real Name: " + artists.Artist[i].RealName)
 		fmt.Println("Profile: " + artists.Artist[i].Profile)
 		fmt.Println("")
-		fmt.Printf("%v", artists.Artist[i].ArtMembers)
+		fmt.Printf("%v\n",artists.Artist[i].Members)
 		fmt.Println("")
-		//  if len(artists.Artist.member.Members) > 0 {
-		 //
-		// 		for j := 0; j < len(artists.Artist.member.Members); j++ {
-		// 		fmt.Println("    Member: " + fmt.Sprint(artists.Artist[i].member.Member[j].MemberID))
-		// 		fmt.Println("    Name:   " + fmt.Println(artists.Artist[i].member.Member[j].MemberName))
-		// 		}
-		// 	}
 	}
 }
