@@ -1,0 +1,32 @@
+match (a:Artist)(b:artist) where a.id = 26 and b.id = 2
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 27 and b.id = 2
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 12186 and b.id = 8
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 27959 and b.id = 8
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 277783 and b.id = 9
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 455753 and b.id = 9
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 201121 and b.id = 9
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 56890 and b.id = 13
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 13815 and b.id = 13
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 13814 and b.id = 13
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 6482 and b.id = 19
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 15867 and b.id = 19
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 308472 and b.id = 21
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 133484 and b.id = 21
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 25 and b.id = 22
+create (a)-[r:memberof]->(b)
+match (a:Artist)(b:artist) where a.id = 519207 and b.id = 22
+create (a)-[r:memberof]->(b)

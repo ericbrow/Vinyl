@@ -1,0 +1,79 @@
+type ChiChidleyRoot314159 struct {
+	ChiArtists *ChiArtists `xml:" artists,omitempty" json:"artists,omitempty"`
+}
+
+type ChiAliases struct {
+	ChiName []*ChiName `xml:" name,omitempty" json:"name,omitempty"`
+}
+
+type ChiArtist struct {
+	ChiAliases *ChiAliases `xml:" aliases,omitempty" json:"aliases,omitempty"`
+	ChiData_quality *ChiData_quality `xml:" data_quality,omitempty" json:"data_quality,omitempty"`
+	ChiGroups *ChiGroups `xml:" groups,omitempty" json:"groups,omitempty"`
+	ChiId []*ChiId `xml:" id,omitempty" json:"id,omitempty"`
+	ChiImages *ChiImages `xml:" images,omitempty" json:"images,omitempty"`
+	ChiMembers *ChiMembers `xml:" members,omitempty" json:"members,omitempty"`
+	ChiName []*ChiName `xml:" name,omitempty" json:"name,omitempty"`
+	ChiNamevariations *ChiNamevariations `xml:" namevariations,omitempty" json:"namevariations,omitempty"`
+	ChiProfile *ChiProfile `xml:" profile,omitempty" json:"profile,omitempty"`
+	ChiRealname *ChiRealname `xml:" realname,omitempty" json:"realname,omitempty"`
+	ChiUrls *ChiUrls `xml:" urls,omitempty" json:"urls,omitempty"`
+}
+
+type ChiArtists struct {
+	ChiArtist []*ChiArtist `xml:" artist,omitempty" json:"artist,omitempty"`
+}
+
+type ChiData_quality struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiGroups struct {
+	ChiName []*ChiName `xml:" name,omitempty" json:"name,omitempty"`
+}
+
+type ChiId struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiImage struct {
+	AttrHeight string `xml:" height,attr"  json:",omitempty"`
+	AttrType string `xml:" type,attr"  json:",omitempty"`
+	AttrUri string `xml:" uri,attr"  json:",omitempty"`
+	AttrUri150 string `xml:" uri150,attr"  json:",omitempty"`
+	AttrWidth string `xml:" width,attr"  json:",omitempty"`
+}
+
+type ChiImages struct {
+	ChiImage []*ChiImage `xml:" image,omitempty" json:"image,omitempty"`
+}
+
+type ChiMembers struct {
+	ChiId []*ChiId `xml:" id,omitempty" json:"id,omitempty"`
+	ChiName []*ChiName `xml:" name,omitempty" json:"name,omitempty"`
+}
+
+type ChiName struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiNamevariations struct {
+	ChiName []*ChiName `xml:" name,omitempty" json:"name,omitempty"`
+}
+
+type ChiProfile struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiRealname struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiUrl struct {
+	Text string `xml:",chardata" json:",omitempty"`
+}
+
+type ChiUrls struct {
+	ChiUrl []*ChiUrl `xml:" url,omitempty" json:"url,omitempty"`
+}
+
