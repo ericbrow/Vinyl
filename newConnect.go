@@ -4,9 +4,11 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
-	//"bytes"
+
 	bolt "github.com/johnnadratowski/golang-neo4j-bolt-driver"
+	//"bytes"
 )
 
 type Artists struct {
@@ -43,12 +45,17 @@ func main() {
 	}
 
 	fmt.Println("Successfully opened artists file")
-	defer xmlFile.Close()
+	//defer xmlFile.Close()
 
 	//connect to database
 	myDriver := bolt.NewDriver()
 	conn, _ := myDriver.OpenNeo("bolt://localhost:7687")
-	defer conn.Close()
+
+	if err != nil {
+		log.Println("error connecting to neo4j:", err)
+	}
+
+	//defer conn.Close()
 
 	byteValue, _ := ioutil.ReadAll(xmlFile)
 	var artists Artists
@@ -59,6 +66,7 @@ func main() {
 	//go through file and create queries
 
 	for i := 0; i < len(artists.Artist); i++ {
+
 		//start node
 		//update to merging - http://neo4j.com/docs/developer-manual/current/cypher/clauses/merge/#merge-merge-single-node-with-properties
 		//https://stackoverflow.com/questions/35255540/neo4j-add-update-properties-if-node-exists/35255802
@@ -75,7 +83,7 @@ func main() {
 		fmt.Println(myQuery)
 
 		check(err)
-
+		conn.ExecNeo(myQuery, nil)
 		//clear buffer
 		myQuery = ""
 
@@ -84,12 +92,12 @@ func main() {
 			for j := 0; j < len(artists.Artist[i].Members.MemberID); j++ {
 				memberQuery := "merge (a:Artist {id: \"" + fmt.Sprint(artists.Artist[i].Members.MemberID[j])
 				memberQuery += "\", name:\"" + fmt.Sprint(artists.Artist[i].Members.MemberName[j]) + "\"})\n"
-
+				conn.ExecNeo(memberQuery, nil)
 				relateQuery := "match (a:Artist)(b:artist) where a.id = "
 				relateQuery += fmt.Sprint(artists.Artist[i].Members.MemberID[j]) + " and b.id = "
 				relateQuery += fmt.Sprint(artists.Artist[i].ArtistID) + "\n"
 				relateQuery += "merge (a)-[r:memberof]->(b)\n"
-
+				conn.ExecNeo(relateQuery, nil)
 				fmt.Println(memberQuery)
 				fmt.Println(relateQuery)
 				memberQuery = ""
@@ -98,4 +106,6 @@ func main() {
 			}
 		}
 	}
+	conn.Close()
+	xmlFile.Close()
 }
