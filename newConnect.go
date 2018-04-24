@@ -68,7 +68,7 @@ func main() {
 
 	for i := 0; i < len(artists.Artist); i++ {
 		fmt.Println()
-		fmt.Println("Now printing Artist" + fmt.Sprint(i))
+		fmt.Println("Now printing Artist " + fmt.Sprint(i))
 		fmt.Println()
 		//start node
 		//update to merging - http://neo4j.com/docs/developer-manual/current/cypher/clauses/merge/#merge-merge-single-node-with-properties
@@ -86,7 +86,7 @@ func main() {
 		check(err)
 		fmt.Println(myQuery)
 
-		//conn.ExecNeo(myQuery, nil)
+		conn.ExecNeo(myQuery, nil)
 		//clear buffer
 		myQuery = ""
 
@@ -95,13 +95,13 @@ func main() {
 			for j := 0; j < len(artists.Artist[i].Members.MemberID); j++ {
 				memberQuery := "merge (a:Artist {id: \"" + fmt.Sprint(artists.Artist[i].Members.MemberID[j])
 				memberQuery += "\", name:\"" + fmt.Sprint(artists.Artist[i].Members.MemberName[j]) + "\"})\n"
-				//conn.ExecNeo(memberQuery, nil)
+				conn.ExecNeo(memberQuery, nil)
 				relateQuery := "match (a:Artist)(b:artist) where a.id = "
 				relateQuery += fmt.Sprint(artists.Artist[i].Members.MemberID[j]) + " and b.id = "
 				relateQuery += fmt.Sprint(artists.Artist[i].ArtistID) + "\n"
 				relateQuery += "merge (a)-[r:memberof]->(b)\n"
 				check(err)
-				//conn.ExecNeo(relateQuery, nil)
+				conn.ExecNeo(relateQuery, nil)
 				fmt.Println(memberQuery)
 				fmt.Println(relateQuery)
 				memberQuery = ""
@@ -110,6 +110,7 @@ func main() {
 			}
 		}
 	}
-	conn.Close()
 	xmlFile.Close()
+	conn.Close()
+
 }
