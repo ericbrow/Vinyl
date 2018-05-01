@@ -85,8 +85,12 @@ func main() {
 		myQuery += "})\n"
 		check(err)
 		fmt.Println(myQuery)
-
-		conn.ExecNeo(myQuery, nil)
+		conn.QueryNeo(myQuery, nil)
+		//conn.ExecNeo(myQuery, nil)
+		if err != nil {
+			panic(err)
+		}
+		//conn.ExecNeo
 		//clear buffer
 		myQuery = ""
 
