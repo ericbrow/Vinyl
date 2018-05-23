@@ -88,8 +88,13 @@ func main() {
 
 		//check(err)
 		//var myResult string
-		row, err := db.Query(myQuery)
+		//var row, err = db.Query(myQuery)
+		row, err := db.Prepare(myQuery)
 
+		if err != nil {
+			log.Println("Error writing query to neo4j: ", err)
+		}
+		err := db.Commit()
 		if err != nil {
 			log.Println("Error writing query to neo4j: ", err)
 		}
